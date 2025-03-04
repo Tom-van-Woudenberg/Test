@@ -5,4 +5,42 @@ _Write book intro here. This is the first page the student will see when opening
 
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen src="https://app.wooclap.com/CM4WE2/questionnaires/67bda64c835299fad9cb9810" style="min-height: 550px; min-width: 300px" width="100%"></iframe>
+````{hint} Watch the steps in action below
+---
+class: dropdown
+---
+```{figure} https://github.com/TeachBooks/template_figures/blob/main/excercise1.gif?raw=true
+---
+name: template_demo_public
+---
+Demonstration of all steps of this exercise, video available [here](https://youtu.be/gn1zBmmunco)
+```
+````
+
+````{hint} Watch the steps in action below
+class: dropdown
+
+```{figure} https://github.com/TeachBooks/template_figures/blob/main/excercise1.gif?raw=true
+---
+name: template_demo_public
+---
+Demonstration of all steps of this exercise, video available [here](https://youtu.be/gn1zBmmunco)
+```
+````
+
+````{hint} Watch the steps in action below
+:class: dropdown
+
+```{figure} https://github.com/TeachBooks/template_figures/blob/main/excercise1.gif?raw=true
+---
+name: template_demo_public
+---
+Demonstration of all steps of this exercise, video available [here](https://youtu.be/gn1zBmmunco)
+```
+````
+
+````{hint} Watch the steps in action below
+class: dropdown
+
+text
+````
